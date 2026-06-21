@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Didula%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Didula%20Gamage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=IT+Officer+at+Sithara+Limited;Python+Developer;Web+Developer;Oracle+Database+Learner;Network+and+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Ethical+Hacking+Enthusiast;Web+Developer;Graphic+Designer;Cyber+Security+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,10 +13,14 @@
 ## 🚀 About Me
 
 ```yaml
-Name: Didula
+Name: Didula Gamage
 Location: Sri Lanka 🇱🇰
+Focus:
+  - Ethical Hacking
+  - Web Development
+  - Graphic Designing
 Currently Learning:
-  - sql Database
+  - SQL Database
   - Python Automation
   - Networking
   - Cyber Security
@@ -44,7 +48,6 @@ Interests:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sash-Gamage&theme=tokyonight"/>
 </p>
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sash-Gamage/Sash-Gamage/output/github-contribution-grid-snake.svg"/>
