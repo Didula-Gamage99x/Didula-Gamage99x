@@ -15,17 +15,18 @@
 ```yaml
 Name: Didula
 Location: Sri Lanka 🇱🇰
+Role: IT Officer
+Company: Sithara Limited
+Education: BSc Information Technology
 Currently Learning:
-  - sql Database
+  - Oracle Database
   - Python Automation
   - Networking
-  - Cyber Security
 Interests:
   - Web Development
   - System Administration
   - Cyber Security
   - Cloud Technologies
-  - Ethical Hacking
 ```
 
 ## ⚡ Tech Stack
@@ -45,6 +46,18 @@ Interests:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sash-Gamage&theme=tokyonight"/>
 </p>
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 🔍 Network Scanner Tool | Python Network Discovery Tool |
+| 🚚 E-Shift Management System | Logistics Management Platform |
+| 💼 Job Portal System | Recruitment Platform |
+| 🛍 Velvet Vogue | E-Commerce Website |
+| ☁️ EVCCloud | Cloud Media Platform |
+
+## 🐍 Contribution Snake
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sash-Gamage/Sash-Gamage/output/github-contribution-grid-snake.svg"/>
 </p>
@@ -54,5 +67,8 @@ Interests:
 <p align="center">
 <a href="https://www.linkedin.com/in/didula-gamage/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
