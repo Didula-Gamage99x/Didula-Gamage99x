@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sash-Gamage&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Didula-Gamage99x&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ## 🚀 About Me
@@ -42,15 +42,15 @@ Interests:
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didula-Gamage99x&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sash-Gamage&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Gamage99x&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sash-Gamage&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sash-Gamage/Sash-Gamage/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Didula-Gamage99x/Didula-Gamage99x/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ## 🌐 Connect With Me
