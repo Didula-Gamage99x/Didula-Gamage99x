@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="24" fill="url(#bg)"/>
+  <circle cx="760" cy="78" r="78" fill="#00C2FF" opacity="0.18"/>
+  <circle cx="144" cy="182" r="92" fill="#7C3AED" opacity="0.18"/>
+  <text x="450" y="112" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">DIDULA GAMAGE</text>
+  <text x="450" y="154" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="20">Developer &amp; Designer • Build it right. Make it beautiful.</text>
+</svg>
