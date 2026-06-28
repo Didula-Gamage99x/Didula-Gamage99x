@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=DIDULA%20GAMAGE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%26%20Designer%20%E2%80%94%20Build%20it%20right.%20Make%20it%20beautiful.&descAlignY=52&descSize=16&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=DIDULA%20GAMAGE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%26%20Designer%20-%20Build%20it%20right.%20Make%20it%20beautiful.&descAlignY=52&descSize=16"/>
 
 <a href="https://didula-gamage.pages.dev/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-didula--gamage.pages.dev-7C3AED?style=for-the-badge&labelColor=0D1117"/></a>
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-00C853?style=for-the-badge&labelColor=0D1117"/>
