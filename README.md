@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Software+Engineer;Ethical+Hacking+%26+Cybersecurity+Enthusiast;Graphic+Designer+%7C+UI%2FUX;Building+tools+that+actually+ship+%E2%9A%A1)](https://git.io/typing-svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Didula-Gamage99x&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
+
 
 </div>
 
