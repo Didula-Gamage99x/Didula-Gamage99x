@@ -1,122 +1,58 @@
 <div align="center">
 
-![Didula Gamage header](header.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Didula%20Gamage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Ethical+Hacking+Enthusiast;Web+Developer;Graphic+Designer;Cyber+Security+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-didula--gamage.pages.dev-7C3AED?style=for-the-badge&labelColor=0D1117)](https://didula-gamage.pages.dev/)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-00C853?style=for-the-badge&labelColor=0D1117)
 ![Profile views](https://komarev.com/ghpvc/?username=Didula-Gamage99x&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge&labelColor=0D1117)
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Software+Engineer;Ethical+Hacking+%26+Cybersecurity+Enthusiast;Graphic+Designer+%7C+UI%2FUX;Building+tools+that+actually+ship+%E2%9A%A1)](https://git.io/typing-svg)
-
-![GitHub Trophy](trophy.svg)
-
 </div>
 
-<br/>
 
-<table align="center">
-<tr>
-<td valign="top" width="52%">
+## 🚀 About Me
 
-### 🧠 about.json
-
-```json
-{
-  "name": "Didula Gamage",
-  "base": "Sri Lanka 🇱🇰",
-  "role": ["Web Developer", "Designer", "Cybersec Learner"],
-  "stack": {
-    "languages": ["Python", "C#", "JavaScript", "PHP", "SQL"],
-    "tools": ["Figma", "Canva", "Kali Linux", "Git"]
-  },
-  "currentlyLearning": ["SQL", "Python Automation", "Networking"],
-  "openTo": "freelance + remote work",
-  "philosophy": "build it properly, design it on purpose"
-}
+```yaml
+Name: Didula Gamage
+Location: Sri Lanka 🇱🇰
+Focus:
+  - Ethical Hacking
+  - Web Development
+  - Graphic Designing
+Currently Learning:
+  - SQL Database
+  - Python Automation
+  - Networking
+  - Cyber Security
+Interests:
+  - Web Development
+  - System Administration
+  - Cyber Security
+  - Cloud Technologies
+  - Ethical Hacking
 ```
 
-</td>
-<td valign="top" width="48%">
-
-### ⚙️ what i ship
-
-| | |
-|---|---|
-| 💻 **System Development** | Custom software built around real workflows |
-| 🌐 **Web Engineering** | Design → build → maintain, end to end |
-| 🎨 **Graphic Design** | Brand identity & digital content |
-| 🛡️ **Cybersecurity** | Recon tools, hardening, security hygiene |
-| 🏢 **IT Support** | Office tech, remote troubleshooting |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧰 tech stack
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,php,mysql,bootstrap,git,github,vscode,figma,photoshop,linux&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,php,mysql,git,github,vscode,linux,figma,photoshop"/>
 </p>
 
-<div align="center">
-
-| Category | Stack |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| **Security / OS** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Tooling** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
-</div>
-
-<details>
-<summary align="center"><b>📊 proficiency breakdown</b></summary>
-<br/>
-
-| Skill | Level |
-|---|---|
-| Canva | ███████████████████░ 95% |
-| HTML / CSS | ██████████████████░░ 90% |
-| Figma | ██████████████████░░ 90% |
-| C# | ██████████████████░░ 90% |
-| Web Design | █████████████████░░░ 85% |
-| Bootstrap | █████████████████░░░ 85% |
-| Kali Linux | █████████████████░░░ 85% |
-| SQL | ███████████████░░░░░ 75% |
-| Git | ██████████████░░░░░░ 70% |
-| JavaScript | █████████████░░░░░░░ 65% |
-| Python | █████████████░░░░░░░ 65% |
-| PHP | █████████░░░░░░░░░░░ 45% |
-
-</details>
-
-<br/>
-
-## 📊 github metrics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Didula-Gamage99x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Gamage99x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didula-Gamage99x&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Gamage99x&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00C2FF&currStreakLabel=00C2FF"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Didula-Gamage99x&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=7C3AED&point=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Didula-Gamage99x/Didula-Gamage99x/output/github-contribution-grid-snake.svg"/>
 </p>
-
-<br/>
 
 ## 🚀 featured projects
 
@@ -158,5 +94,3 @@
 <div align="center">
 <sub>💬 <b>available for projects</b> &nbsp;•&nbsp; 📍 Sri Lanka &nbsp;•&nbsp; © 2026 Didula Gamage</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
