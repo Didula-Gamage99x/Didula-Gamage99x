@@ -1,6 +1,6 @@
 <div align="center">
 
-![Didula Gamage header](assets/header.svg)
+![Didula Gamage header](header.svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-didula--gamage.pages.dev-7C3AED?style=for-the-badge&labelColor=0D1117)](https://didula-gamage.pages.dev/)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-00C853?style=for-the-badge&labelColor=0D1117)
@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Software+Engineer;Ethical+Hacking+%26+Cybersecurity+Enthusiast;Graphic+Designer+%7C+UI%2FUX;Building+tools+that+actually+ship+%E2%9A%A1)](https://git.io/typing-svg)
 
-![GitHub Trophy](assets/trophy.svg)
+![GitHub Trophy](trophy.svg)
 
 </div>
 
