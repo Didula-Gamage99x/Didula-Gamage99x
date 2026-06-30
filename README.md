@@ -59,11 +59,32 @@ Interests:
 <div align="center">
 
 
-<a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Sx9Net&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
-<a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Malcolm-Lismore-Photography&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
-
-<a href="https://github.com/Didula-Gamage99x/Air-Drawing-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Air-Drawing-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
-<a href="https://github.com/Didula-Gamage99x/investigator-browser-activity-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=investigator-browser-activity-logger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Didula-Gamage99x/Sx9Net-Info">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Sx9Net-Info&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Malcolm-Lismore-Photography&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Didula-Gamage99x/Air-Drawing-Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Air-Drawing-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Didula-Gamage99x/investigator-browser-activity-logger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=investigator-browser-activity-logger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
