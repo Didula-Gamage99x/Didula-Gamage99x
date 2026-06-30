@@ -58,7 +58,8 @@ Interests:
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Sx9Net-Info
+
+<a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Sx9Net-Info&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
 <a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Malcolm-Lismore-Photography&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
 
 <a href="https://github.com/Didula-Gamage99x/Air-Drawing-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Air-Drawing-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9"/></a>
