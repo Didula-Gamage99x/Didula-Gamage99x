@@ -82,7 +82,8 @@ I work across **web development** and **visual design** — building systems in 
 
 <div align="center">
 
-
+<img height="165em" src="./profile/stats.svg"/>
+<img height="165em" src="./profile/top-langs.svg"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=synthwave&hide_border=true&background=0D1117"/>
 
