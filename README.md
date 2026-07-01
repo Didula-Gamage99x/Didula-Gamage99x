@@ -82,8 +82,7 @@ I work across **web development** and **visual design** — building systems in 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Didula-Gamage99x&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Gamage99x&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=synthwave&hide_border=true&background=0D1117"/>
 
