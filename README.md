@@ -171,7 +171,6 @@ Network scanner for gathering net details, built for Kali users.<br/>
 <a href="https://www.linkedin.com/in/didula-gamage-8b8412339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://www.instagram.com/didula.gamage"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:didulagamagee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://wa.me/94715853715"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/></a>
 
 </div>
 
