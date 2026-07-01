@@ -29,7 +29,7 @@ const didula = {
 };
 ```
 
-I work across **web development** and **visual design** — building systems in HTML/CSS, JavaScript and C#, and designing the interfaces and brand assets that go with them in Figma and Canva. Alongside that, I take on IT support, website builds & maintenance, and basic cybersecurity hygiene 🔐
+I work across **web development** and **visual design** building systems in HTML/CSS, JavaScript and C#, and designing the interfaces and brand assets that go with them in Figma and Canva. Alongside that, I take on IT support, website builds & maintenance, and basic cybersecurity hygiene 🔐
 
 <br/>
 
@@ -40,8 +40,8 @@ I work across **web development** and **visual design** — building systems in 
 | 💻 System Development | 🌐 Web Services | 🎨 Graphic Design |
 |:---:|:---:|:---:|
 | Custom software & systems | Design, dev & maintenance | Branding & digital content |
-| **🏢 Office IT Help** | **🛡️ Cybersecurity** | **📡 Remote Support** |
-| Day-to-day business tech | Essential security hygiene | Tech help from anywhere |
+| **🛡️ Cybersecurity** | **📡 Remote Support** |
+| Day to day business tech | Essential security hygiene | Tech help from anywhere |
 
 </div>
 
@@ -134,7 +134,7 @@ Chrome extension logging activity & searches with passcode protection.<br/>
 <td width="50%">
 
 **🔐 [Password Strength Checker](https://github.com/Didula-Gamage99x/password-strength-checker)** ⭐ 2<br/>
-Entropy & pattern-based password scoring, crack-time estimate + generator.<br/>
+Entropy & pattern based password scoring, crack time estimate + generator.<br/>
 `HTML` `CSS` `JS`
 
 </td>
@@ -154,7 +154,7 @@ Network scanner for gathering net details, built for Kali users.<br/>
 
 | project | what it does |
 |---|---|
-| 🏫 Preschool Management System | End-to-end admin & operations system for preschools — `HTML/CSS` `JS` `C#` |
+| 🏫 Preschool Management System | End to end admin & operations system for preschools — `HTML/CSS` `JS` `C#` |
 | 🎬 Quiet Attic Films — Booking System | Film booking & management system with a clean UI — `C#` `Database` `UI/UX` |
 
 </details>
