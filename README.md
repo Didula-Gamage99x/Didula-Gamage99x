@@ -50,7 +50,16 @@ I work across **web development** and **visual design** building systems in HTML
     <img src="https://img.shields.io/github/license/eli64s/readme-ai?logo=opensourceinitiative&logoColor=white&label=License&color=8A2BE2" alt="MIT License">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/InnerAura/hyperweave" title="Rendered with HyperWeave">
+    <img src="https://hyperweave.app/v1/strip/readme-ai/automata.static?variant=violet&amp;data=gh:eli64s/readme-ai.stars,gh:eli64s/readme-ai.forks,pypi:readmeai.version&amp;subtitle=eli64s/readme-ai&amp;glyph=github" alt="readme-ai · stars · forks · version" width="66%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/InnerAura/hyperweave" title="Star history rendered with HyperWeave">
+    <img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=violet" alt="readme-ai star history rendered by HyperWeave" width="80%">
+  </a>
+</p>
 <br/>
 
 ## 🔥 tech stack
