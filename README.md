@@ -1,117 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Didula%20Gamage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0EA5E9,100:22D3EE&height=280&section=header&text=Hey,%20I'm%20Didula%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20cool%20stuff%20%26%20breaking%20things%20(ethically)&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Ethical+Hacking+Enthusiast;Web+Developer;Graphic+Designer;Cyber+Security+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Ethical+Hacker+in+Training+%F0%9F%94%93;Web+Dev+%26+Digital+Creator+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;Cyber+Security+Nerd+%F0%9F%9B%A1%EF%B8%8F;Always+shipping+something+new+%F0%9F%9A%80" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-didula--gamage.pages.dev-7C3AED?style=for-the-badge&labelColor=0D1117)](https://didula-gamage.pages.dev/)
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-00C853?style=for-the-badge&labelColor=0D1117)
-![Profile views](https://komarev.com/ghpvc/?username=Didula-Gamage99x&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge&labelColor=0D1117)
+<br/>
+
+<a href="https://didula-gamage.pages.dev/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-didula--gamage.pages.dev-6D28D9?style=for-the-badge&labelColor=0D1117"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=Didula-Gamage99x&label=VISITORS&color=0EA5E9&style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
+<br/>
 
-## 🚀 About Me
+## 🧬 the basics
+
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
 ```yaml
-Name: Didula Gamage
-Location: Sri Lanka 🇱🇰
-Focus:
+whoami: Didula Gamage
+based_in: 🇱🇰 Sri Lanka
+main_character_energy:
   - Ethical Hacking
   - Web Development
-  - Graphic Designing
-Currently Learning:
-  - SQL Database
+  - Graphic Design
+rn_learning:
+  - SQL & Databases
   - Python Automation
   - Networking
   - Cyber Security
-Interests:
-  - Web Development
+into:
+  - Cloud Tech ☁️
   - System Administration
-  - Cyber Security
-  - Cloud Technologies
-  - Ethical Hacking
+  - Breaking (then fixing) things
+mood: caffeinated & shipping
 ```
 
-## ⚡ Tech Stack
+</td>
+<td valign="top" width="45%" align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,php,mysql,git,github,vscode,linux,figma,photoshop"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=350&lines=git+commit+-m+%22fixed+it%22;%23 mostly+didn't+break+it+again;sudo+make+me+a+sandwich" />
 
-## 📊 GitHub Analytics
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didula-Gamage99x&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Gamage99x&layout=compact&theme=tokyonight"/>
-</p>
+<br/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=tokyonight"/>
-</p>
+## ⚡ stack & tools
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Didula-Gamage99x/Didula-Gamage99x/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,php,mysql,git,github,vscode,linux,figma,photoshop&theme=dark" />
+</div>
 
-## 🚀 featured projects
+<br/>
+
+## 📊 the numbers
 
 <div align="center">
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Didula-Gamage99x&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Gamage99x&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Gamage99x&theme=synthwave&hide_border=true&background=0D1117"/>
+
+<img src="https://raw.githubusercontent.com/Didula-Gamage99x/Didula-Gamage99x/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+<br/>
+
+## 🚀 projects worth clicking
+
+<div align="center">
 
 <table>
   <tr>
-    <td>
-  <a href="https://github.com/Didula-Gamage99x/Sx9Net-Info">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Sx9Net-Info&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
-</a>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Malcolm-Lismore-Photography&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
-      </a>
-    </td>
+    <td><a href="https://github.com/Didula-Gamage99x/Sx9Net-Info"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Sx9Net-Info&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6D28D9&text_color=c9d1d9" /></a></td>
+    <td><a href="https://github.com/Didula-Gamage99x/Malcolm-Lismore-Photography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Malcolm-Lismore-Photography&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6D28D9&text_color=c9d1d9" /></a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Didula-Gamage99x/Air-Drawing-Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Air-Drawing-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Didula-Gamage99x/investigator-browser-activity-logger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=investigator-browser-activity-logger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=c9d1d9" />
-      </a>
-    </td>
+    <td><a href="https://github.com/Didula-Gamage99x/Air-Drawing-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=Air-Drawing-Dashboard&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6D28D9&text_color=c9d1d9" /></a></td>
+    <td><a href="https://github.com/Didula-Gamage99x/investigator-browser-activity-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Didula-Gamage99x&repo=investigator-browser-activity-logger&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6D28D9&text_color=c9d1d9" /></a></td>
   </tr>
 </table>
 
 <details>
-<summary align="center"><b>📂 more on the radar</b></summary>
+<summary><b>👀 more on the radar</b></summary>
 <br/>
 
-| Project | Description | Stack |
+| project | what it does | stack |
 |---|---|---|
-| 🏫 [Preschool Management System](https://github.com/Didula-Gamage99x/Didula-Gamage99x) | End-to-end admin & operations system for preschools | `HTML/CSS` `JS` `C#` |
-| 💰 [Payroll Management System](https://github.com/Didula-Gamage99x/Payroll-Management-System) | Automated payroll processing & employee management | `C#` `Database` `UI/UX` |
-| 🔐 [Password Strength Checker](https://github.com/Didula-Gamage99x/password-strength-checker) | Entropy & pattern-based password scoring + secure generator | `HTML` `CSS` `JS` |
-| 🎬 Quiet Attic Films — Booking System | Film booking & management system with a clean UI | `C#` `Database` `UI/UX` |
+| 🏫 [Preschool Management System](https://github.com/Didula-Gamage99x/Didula-Gamage99x) | end-to-end admin & ops system for preschools | `HTML/CSS` `JS` `C#` |
+| 💰 [Payroll Management System](https://github.com/Didula-Gamage99x/Payroll-Management-System) | automated payroll & employee management | `C#` `Database` `UI/UX` |
+| 🔐 [Password Strength Checker](https://github.com/Didula-Gamage99x/password-strength-checker) | entropy-based scoring + secure generator | `HTML` `CSS` `JS` |
+| 🎬 Quiet Attic Films — Booking System | film booking & management, clean UI | `C#` `Database` `UI/UX` |
 
 </details>
 
+</div>
+
 <br/>
 
-## 🌐 let's connect
+## 🌐 come say hi
 
-<p align="center">
-<a href="https://didula-gamage.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<div align="center">
+
+<a href="https://didula-gamage.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/didula-gamage-8b8412339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://www.instagram.com/didula.gamage"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:didulagamagee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://wa.me/94715853715"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/></a>
-</p>
+
+</div>
+
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:6D28D9&height=120&section=footer"/>
+
 <sub>💬 <b>available for projects</b> &nbsp;•&nbsp; 📍 Sri Lanka &nbsp;•&nbsp; © 2026 Didula Gamage</sub>
 </div>
