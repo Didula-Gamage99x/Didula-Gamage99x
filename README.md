@@ -33,14 +33,23 @@ I work across **web development** and **visual design** building systems in HTML
 
 <br/>
 
-<div align="center">
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
-</a>
-</div>
+<p align="center">
+  <a href="https://github.com/eli64s/readme-ai/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/eli64s/readme-ai/release-pipeline.yml?logo=githubactions&label=CI&logoColor=white&color=4169E1" alt="Github Actions">
+  </a>
+  <a href="https://app.codecov.io/gh/eli64s/readme-ai">
+    <img src="https://img.shields.io/codecov/c/github/eli64s/readme-ai?logo=codecov&logoColor=white&label=Coverage&color=5D4ED3" alt="Test Coverage">
+  </a>
+  <a href="https://pypi.python.org/pypi/readmeai/">
+    <img src="https://img.shields.io/pypi/v/readmeai?logo=Python&logoColor=white&label=PyPI&color=7934C5" alt="PyPI Version">
+  </a>
+  <a href="https://www.pepy.tech/projects/readmeai">
+    <img src="https://img.shields.io/pepy/dt/readmeai?logo=PyPI&logoColor=white&label=Downloads&color=9400D3" alt="Total Downloads">
+  </a>
+  <a href="https://opensource.org/license/mit/">
+    <img src="https://img.shields.io/github/license/eli64s/readme-ai?logo=opensourceinitiative&logoColor=white&label=License&color=8A2BE2" alt="MIT License">
+  </a>
+</p>
 
 <br/>
 
