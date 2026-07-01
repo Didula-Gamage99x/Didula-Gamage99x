@@ -36,13 +36,12 @@ I work across **web development** and **visual design** building systems in HTML
 ## 🛠️ what i actually do
 
 <div align="center">
-
-| 💻 System Development | 🌐 Web Services | 🎨 Graphic Design |
-|:---:|:---:|:---:|
-| Custom software & systems | Design, dev & maintenance | Branding & digital content |
-| **🛡️ Cybersecurity** | **📡 Remote Support** |
-| Day to day business tech | Essential security hygiene | Tech help from anywhere |
-
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+</a>
 </div>
 
 <br/>
