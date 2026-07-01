@@ -33,34 +33,9 @@ I work across **web development** and **visual design** building systems in HTML
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/eli64s/readme-ai/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/eli64s/readme-ai/release-pipeline.yml?logo=githubactions&label=CI&logoColor=white&color=4169E1" alt="Github Actions">
-  </a>
-  <a href="https://app.codecov.io/gh/eli64s/readme-ai">
-    <img src="https://img.shields.io/codecov/c/github/eli64s/readme-ai?logo=codecov&logoColor=white&label=Coverage&color=5D4ED3" alt="Test Coverage">
-  </a>
-  <a href="https://pypi.python.org/pypi/readmeai/">
-    <img src="https://img.shields.io/pypi/v/readmeai?logo=Python&logoColor=white&label=PyPI&color=7934C5" alt="PyPI Version">
-  </a>
-  <a href="https://www.pepy.tech/projects/readmeai">
-    <img src="https://img.shields.io/pepy/dt/readmeai?logo=PyPI&logoColor=white&label=Downloads&color=9400D3" alt="Total Downloads">
-  </a>
-  <a href="https://opensource.org/license/mit/">
-    <img src="https://img.shields.io/github/license/eli64s/readme-ai?logo=opensourceinitiative&logoColor=white&label=License&color=8A2BE2" alt="MIT License">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/InnerAura/hyperweave" title="Rendered with HyperWeave">
-    <img src="https://hyperweave.app/v1/strip/readme-ai/automata.static?variant=violet&amp;data=gh:eli64s/readme-ai.stars,gh:eli64s/readme-ai.forks,pypi:readmeai.version&amp;subtitle=eli64s/readme-ai&amp;glyph=github" alt="readme-ai · stars · forks · version" width="66%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/InnerAura/hyperweave" title="Star history rendered with HyperWeave">
-    <img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=violet" alt="readme-ai star history rendered by HyperWeave" width="80%">
-  </a>
-</p>
-<br/>
+
+
+
 
 ## 🔥 tech stack
 
