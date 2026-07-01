@@ -33,8 +33,6 @@ I work across **web development** and **visual design** building systems in HTML
 
 <br/>
 
-## 🛠️ what i actually do
-
 <div align="center">
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
